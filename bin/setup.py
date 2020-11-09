@@ -6,7 +6,7 @@ import sys
 import utils
 
 virtium_header = "# Add Virtium recipes support"
-vt_append = "IMAGE_INSTALL_append = \" vtTestCmd vtSecureCmd vtView\""
+vt_append = "IMAGE_INSTALL_append = \" vttestcmd vtsecurecmd vtview\""
 
 class Setup():
 	def main(self, args):
