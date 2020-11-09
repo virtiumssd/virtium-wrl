@@ -38,7 +38,7 @@ if [ ! -f $LOCALFILE ]; then
 fi
 
 # Requires python
-CMD="python virtium/bin/setup.py"
+CMD="python virtium-wrl/bin/setup.py"
 
 ${CMD} $@
 
