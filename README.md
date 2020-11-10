@@ -9,15 +9,15 @@ Download
 -------------
 The setup program is expected to be clone inside the project directory.
 
-$ cd my-project
-$ git clone https://github.com/virtiumssd/virtium-wrl.git
+    $ cd my-project
+    $ git clone https://github.com/virtiumssd/virtium-wrl.git
 
 Intergate
 -------------
 x86-64 platform
 
-$./virtium-wrl/setup.sh -m x86-64
+    $./virtium-wrl/setup.sh -m x86-64
 
 arm platform
 
-$./virtium-wrl/setup.sh -m arm
+    $./virtium-wrl/setup.sh -m arm
