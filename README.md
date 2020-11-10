@@ -1,6 +1,8 @@
 With this tool you can integrate virtium recipes (vtTestCmd, vtSecureCmd, vtView) into your Wind River Linux platform project.
 
 # Prerequisites
+-------------
+
 A Linux host that meets the requirements for using Wind River Linux. This includes Git version 1.9 or greater and Python 3
 
 # Download
