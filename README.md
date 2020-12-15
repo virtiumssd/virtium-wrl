@@ -18,8 +18,8 @@ Integration
 -------------
 x86-64 platform
 
-    $./virtium-wrl/setup.sh -m x86-64
+    $ ./virtium-wrl/setup.sh -m x86-64
 
 ARM platform
 
-    $./virtium-wrl/setup.sh -m arm [have not been supported yet]
+    $ ./virtium-wrl/setup.sh -m arm [have not been supported yet]
