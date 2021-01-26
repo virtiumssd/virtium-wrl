@@ -22,4 +22,4 @@ x86-64 platform
 
 ARM platform
 
-    $ ./virtium-wrl/setup.sh -m arm [have not been supported yet]
+    $ ./virtium-wrl/setup.sh -m arm
